@@ -1,0 +1,19 @@
+Script started on 2016年03月14日 (週一) 00時48分37秒
+[01;32mF74044038@2015cpp[00m:[01;34m~[00m$ whoami;pwd
+F74044038
+/home/F74044038
+[01;32mF74044038@2015cpp[00m:[01;34m~[00m$ git config -l
+[01;32mF74044038@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/F74044038/lab1.git
+Cloning into 'lab1'...
+Username for 'https://github.com': F74044038
+Password for 'https://F74044038@github.com': 
+error: The requested URL returned error: 403 while accessing https://github.com/F74044038/lab1.git/info/refs
+fatal: HTTP request failed
+[01;32mF74044038@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/F74044038/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+[01;32mF74044038@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月14日 (週一) 00時56分32秒
